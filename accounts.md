@@ -1,6 +1,5 @@
 # Accounts Needed for the Course
 
-<<<<<<< HEAD
 ## Box.com
 1. Go to https://pitt.account.box.com/login and sign in using your Pitt credentials
 2. Create a Folder by clicking "New" and then selecting "Folder"
