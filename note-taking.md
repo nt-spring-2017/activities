@@ -27,5 +27,15 @@ I recommend you try a simple method that I’ve been using for many years.
 
 ## In class activity
 
-Use the above method to take notes (using a sheet of paper) on the Aarseth reading. In any way you find intuitive, make it clear which category each note belongs to. If you have already taken notes, go back through them and copy over any notes that fit the criteria above.
-Add new notes to address anything from the above list that isn't already in your notes. If you took notes for some other reason than items one through five above, create a new category for that note. We will share the results as a class when you are done.
+Use the above method to take notes (using a sheet of paper) on the Aarseth reading.
+
+In any way you find intuitive, make it clear which category each note belongs to. Don't forget the page number!
+
+
+If you have already taken notes, go back through them and copy over any notes that fit the criteria above.
+
+Add new notes to address anything from the above list that isn't already in your notes.
+
+If you took notes for some other reason than items one through five above, create a new category for that note.
+
+We will share results as a class when you are done.
