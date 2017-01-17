@@ -12,9 +12,7 @@ Read about the Cornell Note-Taking Method: http://www.glencoe.com/sites/common_a
 
 ## My Method
 
-I recommend a simple method that I’ve been using for many years. Your assignment is try this with the McLuhan reading.
-
-## Directions
+I recommend you try a simple method that I’ve been using for many years.
 
 1. For a book, use a folded piece of paper as a bookmark. (Works fine with digital, too, but no real need to fold)
 2. When you come across something worth taking notes on (see below for samples), write down a key word or phrase and a page number.
