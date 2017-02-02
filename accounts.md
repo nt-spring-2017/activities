@@ -42,6 +42,8 @@
 
 ## Homework: Join Groups, or Confirm Being Added
 
+https://hypothes.is/groups/RgNrWMxo/nt-spring-2017
+
 1. You will eventually receive an email inviting you to join a Github repository of mine
 2. Follow the link to accept the invitation
 3. You will be automatically added to the Zotero group for this course

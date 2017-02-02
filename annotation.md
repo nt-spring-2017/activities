@@ -13,7 +13,7 @@
 3. A small menu will pop up where you have selected text. Click the button that says "annotate."
 4. If the Hypothes.is sidebar is hidden it will expand with a new text area where you can annotate
 5. Use tags to note the category of your annotations. Descriptions below will ask you to use specific tags
-6. Once you've finished writing your annotation, click the button to "Post to acdm-spring-2017"
+6. Once you've finished writing your annotation, click the button to "Post to nt-spring-2017"
 
 ### Annotation 1:
 
