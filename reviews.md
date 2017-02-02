@@ -42,11 +42,17 @@ Part I: Homework
 Read the following video game reviews of Event[0]. Take notes/annotations using hypothes.is. Make particular note of interesting or very effective uses of language. The highlighting functionality of hypothes.is should work for all of these sites. 
 
 http://twinfinite.net/2016/09/event-0-review/
+
 http://gamecritics.com/nick-kummert/event0-review/
+
 http://www.adventuregamers.com/articles/view/31589
+
 http://www.ztgd.com/event0/review/
+
 https://www.destructoid.com/review-event-0--386745.phtml
+
 http://www.pcgamer.com/event0-review/
+
 https://www.gamecrate.com/reviews/review-event0-brief-tale-trust-and-friendship-clever-ai/14854
  
 Part II: In Class 
