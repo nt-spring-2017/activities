@@ -35,5 +35,21 @@ Give this a try with another game. Once you have a better sense of what a game i
 3. This game tries to do Z and succeeds, but it should have tried to do something else. 
 4. This game failed at its primary goal but is super cool in a different (perhaps accidental) way that I love. 
 
+## Video Game Reviews Activity
 
+Part I: Homework
+
+
+Read the following video game reviews of Event[0]. Take notes/annotations using hypothes.is. Make particular note of interesting or very effective uses of language. The highlighting functionality of hypothes.is should work for all of these sites. 
+
+http://twinfinite.net/2016/09/event-0-review/
+http://gamecritics.com/nick-kummert/event0-review/
+http://www.adventuregamers.com/articles/view/31589
+http://www.ztgd.com/event0/review/
+https://www.destructoid.com/review-event-0--386745.phtml
+http://www.pcgamer.com/event0-review/
+https://www.gamecrate.com/reviews/review-event0-brief-tale-trust-and-friendship-clever-ai/14854
  
+Part II: In Class 
+
+In class on Tuesday, February 14, we will discuss as a group, how to apply our observations to our own writing. We will also do a focused free-write session that you may use as time to draft or continue working on your review.  
