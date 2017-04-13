@@ -26,27 +26,27 @@ If you go long, a gong might sound, or loud music might play. Or maybe the sound
 ## Order
 
 #### Tuesday, April 18
-Chloe	Baierl
-Gregory	Casey
-Tai Xi	Gentile
-Genevieve	Grossman
-Daniel	Justice
-Alicia	Lipton
-Martyn	Megaloudis
-Keith	Miller
-Robinson	Okolo
-Alessandra	Pazzaglia
-Julia	Reese
+- Chloe	Baierl
+- Gregory	Casey
+- Tai Xi	Gentile
+- Genevieve	Grossman
+- Daniel	Justice
+- Alicia	Lipton
+- Martyn	Megaloudis
+- Keith	Miller
+- Robinson	Okolo
+- Alessandra	Pazzaglia
+- Julia	Reese
 
 #### Thursday, April 20
-Hannah	Adams
-Adam	Duche
-Viola	Garis
-Kathryn	Head
-Christopher	Johnson
-Angela	Leo
-Andrew	Lobos
-Patrick	McLaren
-Peter	Mulholland
-Nicholas	Petro
-Ghassan	Salah
+- Hannah	Adams
+- Adam	Duche
+- Viola	Garis
+- Kathryn	Head
+- Christopher	Johnson
+- Angela	Leo
+- Andrew	Lobos
+- Patrick	McLaren
+- Peter	Mulholland
+- Nicholas	Petro
+- Ghassan	Salah
