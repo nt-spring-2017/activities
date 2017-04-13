@@ -17,8 +17,36 @@ If you go long, a gong might sound, or loud music might play. Or maybe the sound
 
 ## Some Topic Ideas
 
-### Give us the inside scoop on something cool about how a game was designed, marketed, sold, or received by audiences. 
-### Tell us all about a cool game that would be interesting to use in a future version of "Narrative and Technology"
-### Discuss some cool, as-of-yet uncovered aspect of one of the games we played for class 
-### Connect the dots in a new or intersting way between two apsects of the class, or an aspect of our class with one of our other classes
-### Discuss a recent news story that relates to the course's subject matter
+#### Give us the inside scoop on something cool about how a game was designed, marketed, sold, or received by audiences. 
+#### Tell us all about a cool game that would be interesting to use in a future version of "Narrative and Technology"
+#### Discuss some cool, as-of-yet uncovered aspect of one of the games we played for class 
+#### Connect the dots in a new or intersting way between two apsects of the class, or an aspect of our class with one of our other classes
+#### Discuss a recent news story that relates to the course's subject matter
+
+## Order
+
+#### Tuesday, April 18
+Chloe	Baierl
+Gregory	Casey
+Tai Xi	Gentile
+Genevieve	Grossman
+Daniel	Justice
+Alicia	Lipton
+Martyn	Megaloudis
+Keith	Miller
+Robinson	Okolo
+Alessandra	Pazzaglia
+Julia	Reese
+
+#### Thursday, April 20
+Hannah	Adams
+Adam	Duche
+Viola	Garis
+Kathryn	Head
+Christopher	Johnson
+Angela	Leo
+Andrew	Lobos
+Patrick	McLaren
+Peter	Mulholland
+Nicholas	Petro
+Ghassan	Salah
